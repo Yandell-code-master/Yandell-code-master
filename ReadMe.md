@@ -10,18 +10,6 @@
 ### 🚀 Sobre mí
 Desarrollador enfocado en el diseño de soluciones escalables y arquitecturas modernas. Mi experiencia abarca desde el despliegue de infraestructura en la nube hasta la optimización de algoritmos complejos. Me apasiona el emprendimiento tecnológico y la construcción de infraestructura digital robusta.
 
----
-
-### 🛠️ Tech Stack
-
-| Categoría | Tecnologías |
-| :--- | :--- |
-| **Backend** | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white) ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=dotnet&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) |
-| **Frontend** | ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white) |
-| **Data & Cloud** | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-CC2927?style=flat&logo=postgresql&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) |
-| **Tools** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black) ![WSL](https://img.shields.io/badge/WSL-0078D4?style=flat&logo=windows&logoColor=white) |
-
----
 
 ### 🌟 Proyectos Destacados
 
