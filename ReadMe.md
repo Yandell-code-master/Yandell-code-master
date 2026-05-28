@@ -1,5 +1,54 @@
 # 💫 About Me:
-PERFIL PROFESIONAL: Yandell Monge<br>Ubicación: Puntarenas, Costa Rica<br>Rol: Desarrollador de Software Full-Stack / Informatica Empresarial<br><br>RESUMEN:<br>Desarrollador enfocado en el diseño de soluciones escalables utilizando arquitecturas modernas y servicios en la nube. Experiencia en el ciclo de vida completo del desarrollo de software, desde la configuración de infraestructura de red y despliegue en contenedores hasta la optimización de algoritmos complejos. Actualmente cursando estudios superiores en desarrollo de software y computación.<br><br>TECNOLOGÍAS Y HABILIDADES TÉCNICAS:<br><br>Desarrollo Backend: Java (Spring Boot, Hibernate, JPA), C# (.NET, Entity Framework Core), Python.<br><br>Desarrollo Frontend: React, integración de kits web como Font Awesome, html, js, css, typescript.<br>API authorization y authentication con JWT y JSON<br><br>Infraestructura y Cloud: Amazon Web Services (AWS) - configuración de bases de datos RDS y DynamoDB, bucket s3.<br><br>DevOps y Herramientas: Docker (containerización de aplicaciones full-stack), Git/GitHub, WSL (Windows Subsystem for Linux), compilación de emuladores con QEMU.<br><br>PROYECTOS DESTACADOS:<br><br>Pomodoro Timer Full-Stack: Aplicación productiva dockerizada con frontend en Html, js, css, bootraps y backend robusto en Java/Spring Boot para la gestión de tiempos y persistencia de datos.<br><br>Herramienta de Optimización con IA: Desarrollo de un sistema basado en Python utilizando Model Context Protocol (MCP) para la limpieza y optimización automática de archivos del sistema.<br><br>Conocimientos en maquinas virtuales y distribuciones de Linux, como cinnamon o ubuntu server puedo montar servidores y servicios como de gmail entre otros.<br><br>Data base Admnistrator, puedo administrar una base de datos, puedo ir desde lo mas basico como la generacio de la base de datos, creando todo el modelo conceptual y leugo el codigo SQL, tengo amplio conocimiento en consultas SQL.<br><br>DATOS COMPLEMENTARIOS:<br><br>Perfil de GitHub: Yandell-code-master.<br><br>Idioma: Español (Nativo).<br>Ingles B2<br><br>Intereses adicionales: Emprendimiento tecnológico y desarrollo de infraestructura digital.
+# 👨‍💻 Yandell Monge | Full-Stack Developer
+
+**📍 Puntarenas, Costa Rica**  
+**🎓 Estudiante de Informática Empresarial**  
+**🌎 Idiomas:** Español (Nativo) | Inglés (B2)
+
+---
+
+### 🚀 Sobre mí
+Desarrollador enfocado en el diseño de soluciones escalables y arquitecturas modernas. Mi experiencia abarca desde el despliegue de infraestructura en la nube hasta la optimización de algoritmos complejos. Me apasiona el emprendimiento tecnológico y la construcción de infraestructura digital robusta.
+
+---
+
+### 🛠️ Tech Stack
+
+| Categoría | Tecnologías |
+| :--- | :--- |
+| **Backend** | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white) ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=dotnet&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) |
+| **Frontend** | ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white) |
+| **Data & Cloud** | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-CC2927?style=flat&logo=postgresql&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) |
+| **Tools** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black) ![WSL](https://img.shields.io/badge/WSL-0078D4?style=flat&logo=windows&logoColor=white) |
+
+---
+
+### 🌟 Proyectos Destacados
+
+*   **[Pomodoro Timer Full-Stack](https://github.com/Yandell-code-master)**: Aplicación dockerizada con backend en **Spring Boot** y frontend moderno para gestión de tiempo productivo.
+*   **AI Optimization System**: Herramienta en **Python** implementando **Model Context Protocol (MCP)** para optimización inteligente de sistemas.
+*   **Infraestructura & Virtualización**: Experiencia avanzada en compilación con **QEMU**, gestión de servidores Linux y despliegue de bases de datos en **AWS (RDS/DynamoDB)**.
+
+---
+
+### 📊 Habilidades de Ingeniería
+*   **Database Admin:** Diseño de modelos conceptuales y consultas SQL complejas.
+*   **DevOps:** Containerización de aplicaciones y automatización de despliegues.
+*   **Security:** Autenticación y autorización robusta mediante **JWT**.
+*   **SysAdmin:** Configuración de servicios de red, servidores de correo y entornos Linux (Cinnamon/Ubuntu Server).
+
+---
+
+### 📫 Conéctate conmigo
+*   **GitHub:** [@Yandell-code-master](https://github.com/Yandell-code-master)
+*   **Ubicación:** Puntarenas, Costa Rica.
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Yandell-code-master&show_icons=true&theme=radical" alt="Estadísticas de Yandell" />
+</p>
+
 
 
 # 💻 Tech Stack:
